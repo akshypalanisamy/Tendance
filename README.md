@@ -7,7 +7,7 @@ The application was made using Android Studio to run on any Android Device runni
 ## Demo:
 
 ![Alt text](Screenshots/Home_Screen.png?raw=true "Home Screen")
-![Screenshot](/Screenshots/Home_Screen.png)
+![Screenshot](/Screenshots/Home Screen.png)
 For a full demo of the application please contact one of the contributors.
 
 ## Contributors:
