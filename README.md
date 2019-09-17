@@ -11,7 +11,7 @@ The application was made using Android Studio to run on any Android Device runni
 For a full demo of the application please contact one of the contributors.
 
 ## Contributors:
-[Akshy Palanisamy](https://pages.github.com/akshypalanisamy),
-[Nathan Jenkins](https://pages.github.com/cha-boy-nate),
+[Akshy Palanisamy](https://www.linkedin.com/in/akshyp/),
+[Nathan Jenkins](https://www.linkedin.com/in/nathan-jenkins-82102a58/),
 [Hung Nguyen](https://www.linkedin.com/in/hung-nguyen-3192a6132/)
 
