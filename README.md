@@ -6,7 +6,7 @@ The application was made using Android Studio to run on any Android Device runni
 
 ## Demo:
 
-![Screenshot](/Screenshots/poster.jpg)
+![Screenshot](/Screenshots/poster.png)
 
 For a full demo of the application please contact one of the contributors.
 
