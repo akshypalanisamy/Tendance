@@ -2,7 +2,7 @@
 
 Tenda is an android application that automates the taking of attendance through the use of the attendee's geolocation. 
 
-The application was made using Android Studio to run on any Android Device running Android 8.0 and above. The backend is written in Python utilizing the flask framework and the data is stored in a MySQL database. The application server and the databse are hosted on an ubuntu EC2 server.
+The application was made using Android Studio to run on any Android Device running Android 8.0 and above. The backend is written in Python utilizing the flask framework and the data is stored in a MySQL database. The application server and the database are hosted on an ubuntu EC2 server.
 
 ## Demo:
 
