@@ -1,4 +1,4 @@
-# Tenda
+# Tendance
 
   Massive events require an intelligent approach to authenticate those in attendance. Our application is a location-based verification system for social events of less than one thousand people. The system will authenticate the location of an attendee at a specified event time. When the attendee becomes within the radius of a specified location, their attendance for the event will be verified. In addition to event attendance statistics, event organizers will then have the ability to see present attendees and send notifications to all present attendees in case of an event update or emergency. Tenda will help managers keep track of attendance for single or recurring events. 
 
@@ -12,7 +12,7 @@ The application was written in Java using Android Studio to run on any Android D
 
 Try the initial app prototype: https://play.google.com/store/apps/details?id=app.team.tendatesting
 
-For a full demo of the application please contact one of the contributors.
+
 
 ## Contributors:
 [Akshy Palanisamy](https://www.linkedin.com/in/akshyp/),
