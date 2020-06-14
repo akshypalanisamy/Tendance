@@ -4,7 +4,7 @@
 
 This system will allow event managers to gain insight into when attendees arrive and depart the venue. Tendance targets users who are facilitators of activity, both professional and academic. Tendance could provide aid to educators with the commission of recording daily attendance, to organizational managers with the confirmation of an hourly schedule, or to hosts of conferences with the objective of determining most popular topics. With this data event coordinators can notify present attendees in case of emergency. The system will collect location data from attendees to improve pattern recognition visibility for attendance. An Android application is being built to automatically take the attendance of a social gathering. Target users are professors needing an efficient way to take attendance, managers wishing to view present employees, or event coordinators wishing to maximize customer experience.
 
-The application was written in Java using Android Studio to run on any Android Device running Android 8.0 and above. The Google Maps API was used for searching and retrieving the event and user's location. The backend is written in Python utilizing the flask framework and the data is stored in a MySQL database. The application server and the database are hosted on an ubuntu server.
+The application was written in Java using Android Studio to run on any Android Device running Android 8.0 and above. The Google Maps API was used for searching and retrieving the event and user's location. The backend is written in Python utilizing the flask framework and the data is stored in a MySQL database. The application server and the database are hosted on an Ubuntu server.
 
 ## Demo:
 
