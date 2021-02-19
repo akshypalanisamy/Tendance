@@ -10,8 +10,6 @@ The application was written in Java using Android Studio to run on any Android D
 
 ![Screenshot](/Screenshots/poster.png)
 
-Try the initial app prototype: https://play.google.com/store/apps/details?id=app.team.tendatesting
-
 
 
 ## Contributors:
